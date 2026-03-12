@@ -43,7 +43,7 @@ export default function Calculator() {
                 <button className="operator" onClick={() => handelClick("*")}>×</button>
 
                 <button className="number" onClick={() => handelClick("1")}>1</button>
-                <butto="number" onClick={() => handelClick("2")}>2</butto>
+                <button className="number" onClick={() => handelClick("2")}>2</button>
                 <button className="number" onClick={() => handelClick("3")}>3</button>
                 <button className="operator" onClick={() => handelClick("-")}>-</button>
 
